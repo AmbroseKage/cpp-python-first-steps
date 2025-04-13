@@ -10,19 +10,25 @@ These tasks are part of my journey into programming – covering:
 - basic syntax and logic in Python and C++
 - structured programming (functions, control flow, I/O)
 - object-oriented programming (classes, encapsulation, etc.)
-- memory management (C++), vectors, arrays, and simple math operations
+- memory management (C++), vectors, arrays, and smart pointers
 - unit testing (e.g. using GoogleTest in C++)
+- basic numerical and mathematical operations (MATLAB-inspired)
 
 ## 📁 Folder structure
 
 | Folder | Description |
 |--------|-------------|
-| `c++/` | Exercises written in C++ – classes, arrays, memory, vectors |
-| `python/` | Basic Python scripts – syntax, loops, functions, etc. |
-| `test/` | Unit tests (mostly C++) using GoogleTest |
-| `cmake/` | CMake config and project setup |
+| `Matlab2_JK/` | Vector operations, norm calculation |
+| `Matlab3_JK/` | Overloaded operators and object handling |
+| `Matlab6_7_8_JK/` | Deep copy, custom math, and extra class logic |
+| `More About Classes/` | OOP features: inheritance, encapsulation, methods |
+| `Relationships Between Classes/` | Working with relationships: association, aggregation, inheritance |
+| `Smart Pointers_JK/` | Exploring `unique_ptr`, `shared_ptr` and memory management in modern C++ |
+| `Python1_JK/` | First steps in Python – variables, input/output, loops |
+| `Python2_JK/` | Functions, lists, conditions |
+| `Python3_JK/` | Working with files, basic error handling |
 
-> 🧪 The code is mostly based on university tasks, but adapted and expanded for my personal learning.
+> 🧪 Most code comes from university assignments but is structured for self-study and experimentation.
 
 ## 🔧 Technologies used
 
